@@ -1,4 +1,4 @@
 7x5fonts
 ========
 
-7x5fonts eapecially uasble for low resolusion displays
+7x5fonts eapecially usable for low resolusion displays
